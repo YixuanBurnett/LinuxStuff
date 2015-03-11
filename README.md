@@ -1,6 +1,6 @@
 ######Linux Stuff :yum: 
 =====
-[Q&A](https://github.com/YixuanBurnett/LinuxStuff/issues)
+[Q&A,有问题请在这里提出](https://github.com/YixuanBurnett/LinuxStuff/issues)
 >有问题放在这里.
 
 1. [鸟哥的Linux私房菜](http://linux.vbird.org/aboutmysite.php)  
