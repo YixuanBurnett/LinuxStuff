@@ -12,8 +12,7 @@ Mar.12 搞定了git. 其实之前貌似是学过啊。全都还给老师我也�
 4. `git commit -m "command"`:To store our staged changes we run the commit command with a message describing what we've change.   
 > 所以文件首先要add（staged）, 而后要commit（注意：此时还没有上传到github）   
 5. `git remote add origin ...address`:To push our local stuff to github server.   
-> P.s第二次可能会显示origin already exist. ^_^其实第二次就已经不用再打这个代码啦。
-6. `git push -u origin master`：下次就可以直接用**git push**了。  
+6. `git push -u origin master`：下次就可以直接用git push了。  
 > 到这一步, 就可以去刷新github了. 上面会显示你从本地上传的东西了.    
 
 
