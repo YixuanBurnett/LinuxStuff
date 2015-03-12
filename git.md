@@ -20,3 +20,31 @@ Mar.12 搞定了git. 其实之前貌似是学过啊。全都还给老师我也�
 注意:才明白转换分支的重要性. 如学不会merge分支. push之后会导致github的文件有两份，一个是改动前，一个是改动后。   
 所以学习一些`checkout`看来也是必须的。明天继续总结。
 
+
+所以在添加新内容 后，应add，commit，添加分支，删除分支，合并。push。   
+
+因为有时候, 改动前的文章会是git.md~   
+所以我们需要合并分支并且删除没用的文件。   
+
+具体操作：   
+``` git branch Yixuan    
+> Here you add a new branck which is the copy of the master.    
+
+``` git checkout Yixuan   
+> Switch to the Yixuan branch   
+
+``` git rm 'filename'   
+> delete this file in Yixuan Branch   
+
+Or you could use `git rm -r folder_of_` to delete a folder.   
+
+``` git checkout master   
+> switch back to master   
+
+``` git merge Yixuan   
+合并   
+
+```git branch -d Yixuan
+> You don't need this branch anymore, so you could delete it before push.
+
+``` git push
