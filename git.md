@@ -17,7 +17,7 @@ Mar.12 搞定了git. 其实之前貌似是学过啊。全都还给老师我也�
 > 到这一步, 就可以去刷新github了. 上面会显示你从本地上传的东西了.    
 
 
-注意:才明白转换分支的重要性. 如学不会merge分支. push之后会导致github的文件有两份，一个是改动前，一个是改动后。   
+注意:明白转换分支的重要性. 如学不会merge分支. push之后会导致github的文件有两份，一个是改动前，一个是改动后。   
 所以学习一些`checkout`看来也是必须的。明天继续总结。
 
 
@@ -27,24 +27,24 @@ Mar.12 搞定了git. 其实之前貌似是学过啊。全都还给老师我也�
 所以我们需要合并分支并且删除没用的文件。   
 
 具体操作：   
-``` git branch Yixuan    
+`git branch Yixuan`    
 > Here you add a new branck which is the copy of the master.    
 
-``` git checkout Yixuan   
+` git checkout Yixuan`   
 > Switch to the Yixuan branch   
 
-``` git rm 'filename'   
+` git rm 'filename'`   
 > delete this file in Yixuan Branch   
 
 Or you could use `git rm -r folder_of_` to delete a folder.   
 
-``` git checkout master   
+` git checkout master`   
 > switch back to master   
 
-``` git merge Yixuan   
-合并   
+` git merge Yixuan`   
+    合并   
 
-```git branch -d Yixuan
+`git branch -d Yixuan`
 > You don't need this branch anymore, so you could delete it before push.
 
-``` git push
+` git push`
