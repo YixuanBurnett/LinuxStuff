@@ -21,5 +21,8 @@ CDROM：/dev/cdrom
 網路卡：/dev/eth[0-n]  
     Get ceremony tomorrow. and shipped my shitty samsung phone back to factory. Ahhhhhhhhhhhhh........Hope they could help me to fix it. God.  
 
+**Mar. 15**
+>Got all stuff in invitation letter done. Includes git book hahaha. So damn easy yeah yeah.
+
 
 
