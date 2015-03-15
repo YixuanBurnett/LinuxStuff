@@ -13,6 +13,9 @@
 4. [Mark](./Mark.md)
 > 把好的**文章**收集在这里, 都还没读，所以叫Mark.
 
+5. [Markdown语法介绍](https://github.com/YixuanBurnett/README)
+> 很全, 从别人那拽来的. 还有表情包. 嗨森.
+
 
 
 
